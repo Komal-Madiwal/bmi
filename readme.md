@@ -36,4 +36,4 @@ copy paste this link http://192.168.0.106:8080/ in your browser
 
 ![BMI Calculator Screenshot](ss/bmi.PNG)
 
-![BMI Result](ss\bmi_calculate.PNG)
+![BMI Result](ss/bmi_calculate.PNG)
