@@ -25,6 +25,15 @@ pip install -r requirements.txt
 
 
 **Run locally*
+
+
 python app.py
 
 copy paste this link http://192.168.0.106:8080/ in your browser
+
+
+## Screenshot
+
+![BMI Calculator Screenshot](ss/bmi.PNG)
+
+![BMI Result](ss\bmi_calculate.PNG)
