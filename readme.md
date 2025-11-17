@@ -44,7 +44,7 @@ Copy and paste this link in your browser:
 http://192.168.0.106:8080/
 
 
-Features
+# Features
 
 Enter weight (kg) and height (ft/in) to calculate BMI
 
