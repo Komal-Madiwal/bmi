@@ -55,8 +55,8 @@ BMI category interpretation: Underweight, Normal, Overweight, Obese
 
 ## Screenshot
 
-![BMI Calculator Screenshot](ss/bmi.PNG)
+![BMI Calculator Screenshot](ss\bmi.PNG)
 
-![BMI Result Screenshot](ss/bmi_calculate.PNG)
+![BMI Result Screenshot](ss\bmi_calculate.PNG)
 
 
