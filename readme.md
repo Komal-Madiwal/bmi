@@ -21,7 +21,7 @@ Users can calculate their BMI by entering their weight and height, and the app p
 ```
 
 
-### **1️⃣ Clone the Repository**
+1️⃣ Clone the Repository**
 ```bash
 git clone https://github.com/Komal-Madiwal/bmi.git
 cd bmi
@@ -55,8 +55,7 @@ BMI category interpretation: Underweight, Normal, Overweight, Obese
 
 ## Screenshot
 
-![BMI Calculator Screenshot](ss\bmi.PNG)
-
-![BMI Result Screenshot](ss\bmi_calculate.PNG)
+![BMI Calculator Screenshot](ss/bmi.PNG)
+![BMI Result Screenshot](ss/bmi_calculate.PNG)
 
 
