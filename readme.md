@@ -53,10 +53,12 @@ Dynamic BMI calculation using Flask backend
 BMI category interpretation: Underweight, Normal, Overweight, Obese
 
 
+
 ## 📷 Screenshots
 
 ![BMI Calculator Screenshot](ss/bmi.PNG)
 
 ![BMI Result Screenshot](ss/bmi_calculate.PNG)
+
 
 
