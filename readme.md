@@ -22,7 +22,7 @@ Users can calculate their BMI by entering their weight and height, and the app p
 
 
 1️⃣ Clone the Repository**
-```bash
+
 git clone https://github.com/Komal-Madiwal/bmi.git
 cd bmi
 
@@ -53,9 +53,10 @@ Dynamic BMI calculation using Flask backend
 BMI category interpretation: Underweight, Normal, Overweight, Obese
 
 
-## Screenshot
+## 📷 Screenshots
 
 ![BMI Calculator Screenshot](ss/bmi.PNG)
+
 ![BMI Result Screenshot](ss/bmi_calculate.PNG)
 
 
